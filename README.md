@@ -8,7 +8,7 @@
 ### INSTALLATION:
 
 * MacOS users needs to replace the `lib` folder inside `/Applications/Arduino.app/Contents/Java/`
-* Linux users needs to replace the `lib` folder inside `/usr/share/arduino//`(Note: You need the IDE from the [website](https://www.arduino.cc/en/software))
+* Linux users needs to replace the `lib` folder inside `/usr/share/arduino/`(Note: You need the IDE from the [website](https://www.arduino.cc/en/software))
 * Windows users needs to replace the `lib` folder inside `C:\Program Files (x86)\Arduino\`(Note: You need the IDE from the [website](https://www.arduino.cc/en/software))
 
 ### AUTHORS
